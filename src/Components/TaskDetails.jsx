@@ -15,10 +15,9 @@ const TaskDetails = () => {
       <div className="task-details-container">
         <h2>{params.taskTitle}</h2>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque
-          laboriosam, consectetur placeat, sequi quia mollitia esse deserunt
-          iusto error quibusdam inventore earum quas minima illum doloremque
-          temporibus aut odio quo?
+          Se essa task foi adicionada focar em realiza-la em tempo hábil,
+          estudar e revisar as que forem completas desse modo evitar problemas
+          futuros
         </p>
       </div>
       <div className="back-button-container">
